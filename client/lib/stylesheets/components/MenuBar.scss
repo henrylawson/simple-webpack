@@ -1,0 +1,23 @@
+.MenuBar__title,
+.MenuBar__title:hover,
+.MenuBar__title:focus,
+.navbar .nav .MenuBar__title,
+.navbar .nav .MenuBar__title:hover,
+.navbar .nav .MenuBar__title:focus {
+  color: #000;
+  font-size: 1rem;
+  text-decoration: underline;
+}
+
+.MenuBar__title--header,
+.MenuBar__title--header:hover,
+.MenuBar__title--header:focus {
+  color: #000;
+  font-size: 1rem;
+  text-decoration: underline;
+
+  float: left;
+  padding-top: .5rem;
+  padding-bottom: .25rem;
+  margin-right: 1rem;
+}
